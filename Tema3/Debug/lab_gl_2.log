@@ -1,0 +1,92 @@
+﻿Build started 07.12.2014 21:40:44.
+     1>Project "C:\Users\MarianAlexandru\Desktop\T3EGC\lab_gl_2_student\lab_gl_2.vcxproj" on node 2 (Build target(s)).
+     1>PreBuildEvent:
+         copy C:\Users\MarianAlexandru\Desktop\T3EGC\lab_gl_2_student\dependente\freeglut\freeglut.dll C:\Users\MarianAlexandru\Desktop\T3EGC\lab_gl_2_student\Debug
+         copy C:\Users\MarianAlexandru\Desktop\T3EGC\lab_gl_2_student\dependente\glew\glew32.dll C:\Users\MarianAlexandru\Desktop\T3EGC\lab_gl_2_student\Debug
+         
+         :VCEnd
+                 1 file(s) copied.
+                 1 file(s) copied.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(38): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(39): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(40): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(127): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(128): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(129): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(130): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(131): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(132): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(133): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(134): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(177): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(178): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(179): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(180): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(181): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(182): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(183): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(184): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(226): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(227): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(229): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(231): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(274): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(275): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(277): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(279): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(331): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(332): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(333): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(334): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(335): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(336): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(337): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(338): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(381): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(382): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(383): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(384): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(385): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(386): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(387): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(388): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(430): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(431): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(433): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(435): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(478): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(479): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(481): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(483): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(532): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(533): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(534): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(535): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(575): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(578): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(579): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(581): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(644): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(647): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(648): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(650): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(712): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(715): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(716): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(718): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(780): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(783): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(784): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(786): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\marianalexandru\desktop\t3egc\lab_gl_2_student\main.cpp(905): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"Debug\SkiJumping.exe" /INCREMENTAL /NOLOGO /LIBPATH:dependente\freeglut /LIBPATH:dependente\glew opengl32.lib freeglut.lib glew32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"Debug\SkiJumping.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"Debug\SkiJumping.lib" /MACHINE:X86 Debug\main.obj
+         lab_gl_2.vcxproj -> C:\Users\MarianAlexandru\Desktop\T3EGC\lab_gl_2_student\Debug\SkiJumping.exe
+     1>Done Building Project "C:\Users\MarianAlexandru\Desktop\T3EGC\lab_gl_2_student\lab_gl_2.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:12.26
